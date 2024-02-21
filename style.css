@@ -1,10 +1,13 @@
 #dotted{
     border-style: dotted;
-    border-color: blue;
+    border-color: black;
 
 }
+h1{
+    text-align: center;
+}
 #p{
-    border: 1px solid;
+    border: 2px solid blue;
     padding: 20px;
     margin: 5%;
 }
